@@ -6,9 +6,9 @@ For this project, I had to reproduce some basic HTML and CSS as outlined in a de
 
 1. Boilerplate HTML added
 
-2. Basic structure outlined as shown in design spec, split into nav, reasonably split sections, and footer (previewed webpage in browser as I went along to ensure there were no errors)
+2. Basic structure outlined as shown in design spec, split into nav, reasonably split sections, and footer
 
-3. HTML content added in order shown in design spec
+3. HTML content added in order shown in design spec (previewed webpage in browser as I went along to ensure there were no errors)
 
 4. Body styles added according to spec
 
