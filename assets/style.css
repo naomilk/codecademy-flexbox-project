@@ -1,0 +1,63 @@
+* {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+header {
+    height: 69px;
+}
+
+header img {
+    padding-left: 10px;
+    height: 50px;
+}
+
+header ul {
+    list-style: none;
+    text-decoration: underline;
+}
+
+#our-mission {
+    background-image: url("/assets/photos/background.webp");
+    width: 1200px;
+    height: 700px;
+}
+
+#tea-of-the-month {
+    width: 1000px;
+}
+
+.tea-menu-items {
+    height: 200px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+#locations {
+    background-image: url("/assets/photos/locations.webp");
+    height: 500px;
+    width: 1200px;
+}
+
+#locations h2 {
+    padding-bottom: 15px;
+}
+
+.location {
+    padding: 40px;
+    width: 300px;
+    opacity: 1;
+}
+
+#contact {
+    height: 200px;
+}
+
+#copyright {
+    padding-left: 20px;
+    text-align: left;
+}
