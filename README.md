@@ -8,7 +8,7 @@ For this project, I had to reproduce some basic HTML and CSS as outlined in a de
 
 2. Basic structure outlined as shown in design spec, split into nav, reasonably split sections, and footer
 
-3. HTML content added in order shown in design spec (previewed webpage in browser as I went along to ensure there were no errors)
+3. HTML content added in order shown in [design spec](/assets/design-spec/design-spec.webp) (previewed webpage in browser as I went along to ensure there were no errors)
 
 4. Body styles added according to spec
 

@@ -9,22 +9,42 @@ body {
 
 header {
     height: 69px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header img {
-    padding-left: 10px;
+    padding: 0px 10px;
     height: 50px;
 }
 
 header ul {
     list-style: none;
     text-decoration: underline;
+    display: flex;
+}
+
+header ul li {
+    padding: 0px 10px;
 }
 
 #our-mission {
     background-image: url("/assets/photos/background.webp");
     width: 1200px;
     height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#our-mission div {
+    background-color: black;
+    width: 100%;
+    height: ;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
 }
 
 #tea-of-the-month {
